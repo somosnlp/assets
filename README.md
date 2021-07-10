@@ -1,7 +1,7 @@
 # Design
 
-Este repositorio contiene los diseños de NLP en ES 🤗
+Este repositorio contiene los diseños de NLP en ES 🤗.
 
-The Figma file can be found [here](https://www.figma.com/file/N1igxjMV7mWYLIDDN2lCXS/design?node-id=0%3A1). Everytime the somebody changes the design file, this repo should be updated accordingly.
+El enlace al archivo de Figma está [aquí](https://www.figma.com/file/N1igxjMV7mWYLIDDN2lCXS/design?node-id=0%3A1). Cada vez que se haga un cambio en dicho archivo este repo tiene que actualizarse de manera correspondiente.
 
-Use the SVG version of the logo when possible, the flags a rasterized to save space (~120 kB). For social media there is also a PNG version.
+Utilizar, en la medida de lo posible, la version SVG del logo ya que las banderas se han rasterizado para ahorrar espacio (~120 kB). También hay una versión PNG para redes sociales.
