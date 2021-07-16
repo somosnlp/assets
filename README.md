@@ -1,4 +1,4 @@
-# Design
+# Assets
 
 Este repositorio contiene los diseños de NLP en ES 🤗.
 
