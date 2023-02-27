@@ -1,6 +1,6 @@
 # Assets
 
-Este repositorio contiene los diseños de NLP en ES 🤗.
+Este repositorio contiene los diseños de Somos NLP.
 
 El enlace al archivo de Figma está [aquí](https://www.figma.com/file/N1igxjMV7mWYLIDDN2lCXS/design?node-id=0%3A1). Cada vez que se haga un cambio en dicho archivo este repo tiene que actualizarse de manera correspondiente.
 
